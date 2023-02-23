@@ -11,4 +11,3 @@ Blog: <a href="https://heyanle.com">何言的杂货店</a>
 - ❤️ I like 🧩**acgn(Anim, Comic, Game, Novel)** and 🎸**guitar**
 - 💻 Coding is my passion
 
-<img src="https://github-readme-stats.vercel.app/api?username=heyanLE&show_icons=true&theme=dark" alt="heyanle" />
