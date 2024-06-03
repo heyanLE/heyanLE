@@ -5,8 +5,8 @@ Blog: <a href="https://heyanle.com">何言的杂货店</a>
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
-- 🏫 Student at **Guangdong University of Technology**
-- 🏠 Internship in **Tencent Music Entertainment Group**
+- 🏫 Graduated from **Guangdong University of Technology**
+- 🏠 Work for **Tencent Music Entertainment Group**
 -  📱 **Android App Development Engineer**
 - ❤️ I like 🧩**acgn(Anim, Comic, Game, Novel)** and 🎸**guitar**
 - 💻 Coding is my passion
